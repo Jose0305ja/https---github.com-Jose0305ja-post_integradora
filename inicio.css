@@ -9,11 +9,12 @@ html {
 .container {
   display: flex;
   height: 100vh;
+  justify-content: space-between;
   background-color: #eceaea; /* Color del fondo */
 }
 
 .image-section {
-  width: 50%;
+  width: 60%;
   position: relative;
   overflow: hidden;
 }
